@@ -23,3 +23,16 @@
 .announce-card{
 	width:50%;
 }
+.more-blog{
+	padding-top:200px;
+	width:100%;
+	display: flex;
+  justify-content: center;
+}
+.ai{
+	width: 671px;
+   height: 460px;
+ border-radius: 15px
+
+}
+
