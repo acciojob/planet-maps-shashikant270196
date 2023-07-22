@@ -1,3 +1,13 @@
+.latest-blog{
+	display:flex;
+	background-color:grey;
+	width: 1386px;
+    height: 742px;
+    top: 155px;
+    left: 27px;
+    border-radius: 50px;
+
+}
 .search{
 	border-left-radius:0px;
 }
