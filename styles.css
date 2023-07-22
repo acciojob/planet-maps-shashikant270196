@@ -1,5 +1,6 @@
 .latest-blog{
-	display:flex;
+	display: flex;
+  justify-content: center;
 	background-color:grey;
 	width: 1386px;
     height: 742px;
