@@ -1,13 +1,14 @@
 .latest-blog{
-	display: flex;
-  justify-content: center;
 	background-color:grey;
 	width: 1386px;
     height: 742px;
     top: 155px;
     left: 27px;
     border-radius: 50px;
-
+}
+.xyz{
+	display: flex;
+  justify-content: center;
 }
 .search{
 	border-left-radius:0px;
@@ -18,5 +19,7 @@
     padding-top: 100px;
     padding-left: 110px;
     border-radius: 0px 19px 19px 0px;
-
+}
+.announce-card{
+	width:50%;
 }
