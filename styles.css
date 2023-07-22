@@ -39,4 +39,11 @@
    height: 460px;
  border-radius: 15px
 }
+.card{
+	border-radius:25px:
+}
+.writer{
+	display:flex;
+	justify-content:space-between;
+}
 
